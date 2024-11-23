@@ -38,8 +38,7 @@ Here are a few projects I've worked on:
 ## 📫 Let's Connect!
 
 - **Email:** kwoodyard173@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Website/Portfolio:** [Your Website URL](https://yourwebsite.com)
+- **LinkedIn:** https://www.linkedin.com/in/ky-woodyard/
 
 ---
 
