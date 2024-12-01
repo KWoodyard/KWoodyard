@@ -27,11 +27,11 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and enjoy b
 
 Here are a few projects I've worked on:
 
-- **[Project Name](link-to-repo):** [Brief description of the project]
-- **[Project Name](link-to-repo):** [Brief description of the project]
-- **[Project Name](link-to-repo):** [Brief description of the project]
+- **Log Parser https://github.com/KWoodyard/Bash-Script-Log-Parser:** Project was created using Bash and parses characters through the program.
+- **Malware Analysis https://github.com/KWoodyard/Malware-Analysis:** Thorough analysis of malware sample in documentation.
+- **Forensic Investigation https://github.com/KWoodyard/Forensic-Investigation:** Computer forensic investigation of suspected criminal.
 
-*View all my repositories [here](https://github.com/yourusername?tab=repositories).*
+*View all my repositories [here](https://github.com/KWoodyard?tab=repositories).*
 
 ---
 
